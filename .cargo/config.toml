@@ -1,0 +1,7 @@
+[env]
+
+#mongo
+MONGO_CONN_STR = "mongodb://user:pass@localhost"
+
+#pg
+PG_CONN_STR = "postgres://postgres:postgres@localhost/users"
